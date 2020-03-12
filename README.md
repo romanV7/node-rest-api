@@ -4,6 +4,11 @@
 
 ![image](https://user-images.githubusercontent.com/51646341/76054632-fe477980-5f79-11ea-9237-c13948f8d65f.png)
 
+## Built With
+* [Node.js](https://nodejs.org/en/) - JavaScript environment  
+* [Express](http://expressjs.com/) - The web framework used  
+* [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) - The global cloud database service
+
 ### What will I build ?  
 My API will have a couple of resources, I want to build an api that's realistic and that contains something which are typical to restful apis.  
 For this, I will have a product's resource so /products - is one route we can target. And there I want to support GET request to get a list of all the products we have, POST request to add new products, also want to be able to target an individual product by id and get information about that product, patch that product so change it updated, delete this product so that we can get rid of it.  
